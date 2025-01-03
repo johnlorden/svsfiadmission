@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { Button } from '@/components/ui/button'
-import { useToast } from '@/components/ui/use-toast'
+import { useToast } from 'import { useToast } from "@/hooks/use-toast"'
 
 interface EnrollmentSlipDownloadProps {
   applicationId: string

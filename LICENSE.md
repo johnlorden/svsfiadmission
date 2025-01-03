@@ -56,7 +56,7 @@ For licensing inquiries, permissions, or purchase of full rights, please contact
 
 - **John Lorden Esperal**  
   - **Position:** Developer, Designer  
-  - **Email:** itsme@john-lorden.tech  
+  - **Email:** legal@johnlorden.online  
   - **Phone:** +63-969-269-0882  
 
 ---

@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card'
-import { useToast } from "@/hooks/use-toast"
+import { useToast } from '@/hooks/use-toast'
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group'
 
 export default function SignUp() {
